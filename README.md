@@ -56,6 +56,9 @@ For databases, you can use any database system, but we recommend using free tier
 Make sure to update the necessary configurations (e.g., database connection strings, API keys) to match your deployment environment.
 
 Technologies Used
-Frontend: [List frontend technologies, e.g., React Native, Flutter]
-Backend: [List backend technologies, e.g., Node.js, Express]
-Database: [List database system, e.g., MongoDB]
+Frontend: [Flutter]
+Backend: [Dart]
+Database: [Firebase]
+
+Note:- Due to time constraint, I was not able to complete the entire development.
+
